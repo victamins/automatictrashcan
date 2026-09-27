@@ -2,9 +2,8 @@
 Automatic trashcan controlled by ultrasonic and servo motors. 
 
 Experimenting with a new arduino kit + trying to teach little brother. 
-![IMG_3096](https://github.com/user-attachments/assets/e8158751-9103-427c-8233-31b7310e31d6)
-![IMG_3095](https://github.com/user-attachments/assets/82631cbe-9b79-44d2-b580-65e4d62229bc)
-
+![Automatic Trashcan](images/IMG_3096.jpg)
+![Automatic Trashcan](images/IMG_3095.jpg)
 
 
 Demo Video: 
