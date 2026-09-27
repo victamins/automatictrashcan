@@ -3,7 +3,6 @@
 Servo myservo;
 #define echoPin 2
 #define trigPin 3  // create servo object to control a servo 
-                // twelve servo objects can be created on most boards
 float duration, distance;
 
 void setup() 
@@ -12,7 +11,7 @@ void setup()
   myservo.attach(9);
   Serial.begin (9600);
   pinMode(trigPin, OUTPUT);
-  pinMode(echoPin, INPUT);  // attaches the servo on GIO2 to the servo object 
+  pinMode(echoPin, INPUT); 
   myservo.write(0);
 } 
 void loop() 
@@ -46,12 +45,3 @@ void loop()
   }
   
 } 
-// 
-
-// void setup() {
-//   
-// }
-
-// void loop() {
-//   
-// }
